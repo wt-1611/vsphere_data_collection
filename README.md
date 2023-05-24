@@ -38,7 +38,7 @@ docker pull wt1611/vmware_vsphere:v1.0
 
 访问：
 
-http://<ip>:5000
+http://\<ip\>:5000
 
 ## 直接启动
 
@@ -59,4 +59,4 @@ python3 begin.py
 
 访问：
 
-http://:5000
+http://\<ip\>:5000
